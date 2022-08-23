@@ -19,7 +19,7 @@ export default function Home({ name }) {
 
           {name ? (
             <>
-              <h2 className="subtitle">My MongoDB user name:
+              <h2 className="subtitle">Connected to My MongoDB:
                 <a href="https://nextjs.org"> {name}</a>
               </h2>
               <h2 className="subtitle">
