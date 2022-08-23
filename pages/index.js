@@ -23,7 +23,7 @@ export default function Home({ name }) {
                 <a href="https://nextjs.org"> {name}</a>
               </h2>
               <h2 className="subtitle">
-                db('test') collection('names')
+                db(test) collection(names)
               </h2>
             </>
 
