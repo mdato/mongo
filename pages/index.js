@@ -5,7 +5,7 @@ export default function Home({ name }) {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
+        <title>Next with MongoDB</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
